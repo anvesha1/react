@@ -1,0 +1,11 @@
+.homeWrapper{
+
+    display: none;
+    border-radius: 15rem;
+}
+
+.homeWrapper img{
+    width: 100px;
+    height: 100px;
+
+}
